@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj-varshney-dev/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/anuj-varshney-dev/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj-varshney-dev/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/anuj-varshney-dev/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/anuj-varshney-dev/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->

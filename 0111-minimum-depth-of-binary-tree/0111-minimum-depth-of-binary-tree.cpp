@@ -41,6 +41,6 @@ public:
             }
             depth++;
         }
-        return -1;
+        return -1; //acts as a saftety net it has no significance
     }
 };

@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-varshney-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj-varshney-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anuj-varshney-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-varshney-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj-varshney-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anuj-varshney-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-varshney-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj-varshney-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anuj-varshney-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anuj-varshney-dev/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anuj-varshney-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## DP on Trees
 |  |
 | ------- |

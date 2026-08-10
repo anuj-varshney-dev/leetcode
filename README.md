@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj-varshney-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/anuj-varshney-dev/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj-varshney-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/anuj-varshney-dev/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anuj-varshney-dev/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/anuj-varshney-dev/leetcode/tree/master/0814-binary-tree-pruning) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Breadth-First Search

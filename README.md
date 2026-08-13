@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj-varshney-dev/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/anuj-varshney-dev/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Bit Manipulation
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anuj-varshney-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->

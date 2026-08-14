@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/anuj-varshney-dev/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj-varshney-dev/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/anuj-varshney-dev/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Bit Manipulation
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/anuj-varshney-dev/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 ## Math
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/anuj-varshney-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2256-minimum-average-difference](https://github.com/anuj-varshney-dev/leetcode/tree/master/2256-minimum-average-difference) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/anuj-varshney-dev/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anuj-varshney-dev/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj-varshney-dev/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anuj-varshney-dev/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anuj-varshney-dev/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anuj-varshney-dev/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
 |  |
 | ------- |

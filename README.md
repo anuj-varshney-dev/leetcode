@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj-varshney-dev/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anuj-varshney-dev/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/anuj-varshney-dev/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj-varshney-dev/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anuj-varshney-dev/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anuj-varshney-dev/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anuj-varshney-dev/leetcode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## DP on Trees
 |  |
 | ------- |

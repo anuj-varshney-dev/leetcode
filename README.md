@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0896-monotonic-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0896-monotonic-array) |
 | [0976-largest-perimeter-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anuj-varshney-dev/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj-varshney-dev/leetcode/tree/master/1329-sort-the-matrix-diagonally) |

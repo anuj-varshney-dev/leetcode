@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuj-varshney-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuj-varshney-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj-varshney-dev/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuj-varshney-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0976-largest-perimeter-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |

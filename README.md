@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anuj-varshney-dev/leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj-varshney-dev/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj-varshney-dev/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anuj-varshney-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2256-minimum-average-difference](https://github.com/anuj-varshney-dev/leetcode/tree/master/2256-minimum-average-difference) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anuj-varshney-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj-varshney-dev/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anuj-varshney-dev/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |

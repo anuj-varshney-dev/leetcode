@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0118-pascals-triangle) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuj-varshney-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/anuj-varshney-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |

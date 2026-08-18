@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuj-varshney-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0896-monotonic-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anuj-varshney-dev/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |

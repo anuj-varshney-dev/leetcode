@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj-varshney-dev/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anuj-varshney-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2256-minimum-average-difference](https://github.com/anuj-varshney-dev/leetcode/tree/master/2256-minimum-average-difference) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anuj-varshney-dev/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/anuj-varshney-dev/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anuj-varshney-dev/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Bit Manipulation
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/anuj-varshney-dev/leetcode/tree/master/0290-word-pattern) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anuj-varshney-dev/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anuj-varshney-dev/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2256-minimum-average-difference](https://github.com/anuj-varshney-dev/leetcode/tree/master/2256-minimum-average-difference) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anuj-varshney-dev/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Dynamic Programming
 |  |
 | ------- |

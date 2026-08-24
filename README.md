@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anuj-varshney-dev/leetcode/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0846-hand-of-straights](https://github.com/anuj-varshney-dev/leetcode/tree/master/0846-hand-of-straights) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/anuj-varshney-dev/leetcode/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/anuj-varshney-dev/leetcode/tree/master/0846-hand-of-straights) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anuj-varshney-dev/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/anuj-varshney-dev/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2256-minimum-average-difference](https://github.com/anuj-varshney-dev/leetcode/tree/master/2256-minimum-average-difference) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anuj-varshney-dev/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |

@@ -5,7 +5,11 @@ public:
         long long cnt=0;
         for(int i=0;i<piles.size();i++)
         {
-            cnt += (piles[i] + mid - 1)/mid;
+           cnt+=piles[i]/mid;
+           if(piles[i]%mid!=0)
+           {
+             cnt++;
+           }
         }
         if(cnt<=h)
         {

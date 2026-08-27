@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/anuj-varshney-dev/leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anuj-varshney-dev/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/anuj-varshney-dev/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/anuj-varshney-dev/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anuj-varshney-dev/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2256-minimum-average-difference](https://github.com/anuj-varshney-dev/leetcode/tree/master/2256-minimum-average-difference) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/anuj-varshney-dev/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/anuj-varshney-dev/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/anuj-varshney-dev/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anuj-varshney-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix

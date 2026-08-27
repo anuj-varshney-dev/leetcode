@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0846-hand-of-straights](https://github.com/anuj-varshney-dev/leetcode/tree/master/0846-hand-of-straights) |
+| [0875-koko-eating-bananas](https://github.com/anuj-varshney-dev/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0896-monotonic-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/anuj-varshney-dev/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/anuj-varshney-dev/leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/anuj-varshney-dev/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/anuj-varshney-dev/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Matrix

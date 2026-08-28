@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/anuj-varshney-dev/leetcode/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/anuj-varshney-dev/leetcode/tree/master/0846-hand-of-straights) |
+| [0859-buddy-strings](https://github.com/anuj-varshney-dev/leetcode/tree/master/0859-buddy-strings) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj-varshney-dev/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/anuj-varshney-dev/leetcode/tree/master/0290-word-pattern) |
+| [0859-buddy-strings](https://github.com/anuj-varshney-dev/leetcode/tree/master/0859-buddy-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anuj-varshney-dev/leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Rolling Hash

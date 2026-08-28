@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0118-pascals-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anuj-varshney-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anuj-varshney-dev/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/anuj-varshney-dev/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-varshney-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anuj-varshney-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anuj-varshney-dev/leetcode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anuj-varshney-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/anuj-varshney-dev/leetcode/tree/master/0598-range-addition-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/anuj-varshney-dev/leetcode/tree/master/0779-k-th-symbol-in-grammar) |

@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anuj-varshney-dev/leetcode/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/anuj-varshney-dev/leetcode/tree/master/0290-word-pattern) |
 | [0859-buddy-strings](https://github.com/anuj-varshney-dev/leetcode/tree/master/0859-buddy-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuj-varshney-dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj-varshney-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/anuj-varshney-dev/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2390-removing-stars-from-a-string](https://github.com/anuj-varshney-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anuj-varshney-dev/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anuj-varshney-dev/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/anuj-varshney-dev/leetcode/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuj-varshney-dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anuj-varshney-dev/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/anuj-varshney-dev/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuj-varshney-dev/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0846-hand-of-straights](https://github.com/anuj-varshney-dev/leetcode/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuj-varshney-dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/anuj-varshney-dev/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
@@ -378,4 +381,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuj-varshney-dev/leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anuj-varshney-dev/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

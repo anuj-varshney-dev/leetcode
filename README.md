@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/anuj-varshney-dev/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anuj-varshney-dev/leetcode/tree/master/0054-spiral-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/anuj-varshney-dev/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj-varshney-dev/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0436-find-right-interval](https://github.com/anuj-varshney-dev/leetcode/tree/master/0436-find-right-interval) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anuj-varshney-dev/leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/anuj-varshney-dev/leetcode/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/anuj-varshney-dev/leetcode/tree/master/0986-interval-list-intersections) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/anuj-varshney-dev/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
